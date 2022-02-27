@@ -16,7 +16,7 @@ export function Profile({ showProfileData = true }: ProfileProps) {
         </Box>
       )}
 
-      <Avatar size="md" name="Matheus Gomes" src="adicionar a url da imagem para substituir" />
+      <Avatar size="md" name="Matheus Gomes" src="" />
     </Flex>
   )
 }

@@ -11,7 +11,7 @@ export function SearchBox() {
 
   //debounce - fazer busca enquanto a pessoa digita
 
-  console.log(searchInputRef.current.value)
+  //console.log(searchInputRef.current.value)
 
   return (
 
